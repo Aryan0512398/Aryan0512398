@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **react ,**
+- 💬 Ask me about **anything related to tech **
 
 - 📫 How to reach me **aryangupta052015@gmail.com**
 
