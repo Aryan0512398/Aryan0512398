@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan0512398" alt="aryan0512398" /></a> </p>
 
-- 🔭 I’m currently working on **PathAI**
+- 🔭 I’m currently working on **Portfolio**
 
 - 🌱 I’m currently learning **Next js**
 
